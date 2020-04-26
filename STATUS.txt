@@ -1,0 +1,5 @@
+1. Updating Fake_Curr..>Banknote_authentication_Update.ipynb
+ 	ISSUES:
+		1. Need to update the file form Python2 to Python3.
+		2. Important changes: Converting print "zys" to print("zys")
+		3. Some modules need to be changes. Best method is by copy+pasting the error on Google. 
