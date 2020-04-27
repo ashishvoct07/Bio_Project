@@ -1,0 +1,7 @@
+Column in banknote_authentication.cvs
+
+1. Variance
+2. Skewness
+3, Kurtosis
+4. Entropy
+5. Class
